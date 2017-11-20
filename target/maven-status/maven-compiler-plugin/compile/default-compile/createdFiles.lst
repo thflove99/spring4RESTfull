@@ -1,0 +1,5 @@
+com\sping4RESTful\bean\Greeting.class
+com\sping4RESTful\bean\Hello.class
+com\sping4RESTful\bean\Message.class
+com\spring4RESTful\resources\GreetingController.class
+com\spring4RESTful\resources\MessageRestController.class
